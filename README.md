@@ -1,27 +1,28 @@
+<div align="center"> Official repository of <br> &nbsp; </div>
+
+# <div align="center"> SyPer </div>
+
 <div align="center">
   <p>
-    <img width="100%" src="https://github.com/jankolf/SyPer/blob/main/images/syper_header.png?raw=true">
+    <img width="50%" src="https://github.com/jankolf/SyPer/blob/main/images/syper_logo.png?raw=true">
   </p>
 
-<div>
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0262885623000665"><img src="https://github.com/jankolf/SyPer/blob/main/images/paper-sciencedirect.svg?raw=true" alt="Paper available at ScienceDirect"></a>
-    <a href=""><img src="https://github.com/jankolf/SyPer/blob/main/images/models-coming-soon.svg?raw=true" alt="Models Coming Soon"></a>
-</div>
-<br>
+# <div align="center"> Synthetic periocular data for quantized light-weight recognition in the NIR and visible domains </div>
+
+<div align="center", padding="30px">
+  <span style="display:block; height: 20em;">&emsp;</span>
+  <p><b>Jan Niklas Kolf</b><sup> 1,2</sup> &emsp; <b>Jurek Elliesen</b><sup> 1</sup> &emsp; <b>Fadi Boutros</b><sup> 1</sup> &emsp; <b>Hugo Proença</b><sup> 3</sup> &emsp; <b>Naser Damer</b><sup> 1,2</sup>  </p>
+  <p><sup>1 </sup>Fraunhofer IGD &emsp; <sup>2 </sup>Technische Universität Darmstadt  &emsp; <sup>3 </sup>University of Beira Interior, IT: Instituto de Telecomunicações</p>
+  <span style="display:block; height: 50em;">&emsp;</span>
+  <p><b>Image and Vision Computing</b> <br> Volume 135, July 2023</p>
+  <span style="display:block; height: 50em;">&emsp;</span>
 </div>
 
 <div align="center">
-Authors: 
-<br>
-Jan Niklas Kolf, Jurek Elliesen, Fadi Boutros, Hugo Proença and Naser Damer
-<br>
-<br>
-
-Code and models will be available soon.
-<br>
-<br>
-
-The official implementation of
+        <a href="https://sharedata.jankolf.de/syperpaper"><img src="https://github.com/jankolf/assets/blob/main/badges/download-paper-c1.svg?raw=true"></a>
+        &emsp;
+        <a href="https://sharedata.jankolf.de/syper"><img src="https://github.com/jankolf/assets/blob/main/badges/download-data-c1.svg?raw=true"></a>
+</div>
 
 </div>
 
